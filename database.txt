@@ -1,4 +1,0 @@
-localhost
-db_latihan13
-root
-
